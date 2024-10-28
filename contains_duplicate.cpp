@@ -1,3 +1,4 @@
+// podejscie czas O(nlogn) pamiec O(1)
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
